@@ -1,4 +1,4 @@
-# Marlowe Minh — Skills Portfolio
+# Marlowe Minh - Skills Portfolio
 
 A public overview of the AI-assisted workflows Minh has accumulated, adapted, and used during his time at **Integral Media (IM)**.
 
@@ -87,7 +87,7 @@ This portfolio documents **what each workflow is for, its main procedure, and th
 | [Safe Session Cleanup](session-cleanup/README.md) | Identify and clean up stale agent and browser sessions while protecting active work. |
 | [Skill Health Check](skill-health-check/README.md) | Assess whether a skill’s workflow and dependencies are ready to use. |
 
-## What is public — and what stays private
+## What is public - and what stays private
 
 Every published file is a README written for this portfolio. The repository contains no executable skills, full operational instructions, prompts, scripts, reference packs, templates, client deliverables, client source files, transcripts, credentials, or links to client files. Client names may appear to describe a workflow's context; their inclusion does not imply endorsement.
 
